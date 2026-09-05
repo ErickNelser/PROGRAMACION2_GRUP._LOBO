@@ -1,10 +1,10 @@
-﻿namespace GRUP._LOBO2_OFICIAL
+﻿namespace ConsoleApp1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!preba");
+            Console.WriteLine("Hello, World!");
         }
     }
 }

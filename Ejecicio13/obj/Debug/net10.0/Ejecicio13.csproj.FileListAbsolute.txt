@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\obj\Debug\net10.0\Ejecicio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\obj\Debug\net10.0\Ejecicio13.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\obj\Debug\net10.0\Ejecicio13.AssemblyInfo.cs
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\obj\Debug\net10.0\Ejecicio13.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\obj\Debug\net10.0\Ejecicio13.sourcelink.json
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\bin\Debug\net10.0\Ejecicio13.exe
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\bin\Debug\net10.0\Ejecicio13.deps.json
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\bin\Debug\net10.0\Ejecicio13.runtimeconfig.json
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\bin\Debug\net10.0\Ejecicio13.dll
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\bin\Debug\net10.0\Ejecicio13.pdb
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\obj\Debug\net10.0\Ejecicio13.dll
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\obj\Debug\net10.0\refint\Ejecicio13.dll
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\obj\Debug\net10.0\Ejecicio13.pdb
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\obj\Debug\net10.0\Ejecicio13.genruntimeconfig.cache
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejecicio13\obj\Debug\net10.0\ref\Ejecicio13.dll

@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\bin\Debug\net10.0\Ejercicio8.exe
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\bin\Debug\net10.0\Ejercicio8.deps.json
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\bin\Debug\net10.0\Ejercicio8.runtimeconfig.json
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\bin\Debug\net10.0\Ejercicio8.dll
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\bin\Debug\net10.0\Ejercicio8.pdb
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\obj\Debug\net10.0\Ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\obj\Debug\net10.0\Ejercicio8.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\obj\Debug\net10.0\Ejercicio8.AssemblyInfo.cs
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\obj\Debug\net10.0\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\obj\Debug\net10.0\Ejercicio8.sourcelink.json
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\obj\Debug\net10.0\Ejercicio8.dll
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\obj\Debug\net10.0\refint\Ejercicio8.dll
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\obj\Debug\net10.0\Ejercicio8.pdb
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\obj\Debug\net10.0\Ejercicio8.genruntimeconfig.cache
+C:\Users\Legion\Documents\DEVII\PROGRAMACION2_GRUP._LOBO\Ejercicio8\obj\Debug\net10.0\ref\Ejercicio8.dll

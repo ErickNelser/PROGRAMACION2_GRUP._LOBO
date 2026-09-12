@@ -1,4 +1,22 @@
 <Solution>
+  <Project Path="../Ejecicio13/Ejecicio13.csproj" Id="2e737020-266b-437f-8ddd-6cc57b0923ab" />
+  <Project Path="../Ejercicio10/Ejercicio10.csproj" Id="d019bbde-db6e-43f7-8ccd-cd2a409de3c5" />
+  <Project Path="../Ejercicio11/Ejercicio11.csproj" Id="2399d116-a2a2-4a17-9e4c-72f4aac026d4" />
+  <Project Path="../Ejercicio12/Ejercicio12.csproj" Id="01945622-e60c-44be-a72a-7e3843387dda" />
+  <Project Path="../Ejercicio14/Ejercicio14.csproj" Id="95a6d4df-b3fe-4aed-8fdd-6691c7f8cffb" />
+  <Project Path="../Ejercicio15/Ejercicio15.csproj" Id="1338272f-8586-4bef-a08c-b5af7b01d1fa" />
+  <Project Path="../Ejercicio16/Ejercicio16.csproj" Id="3a6bbd53-55dc-45f8-86ee-7ab6c1f06f65" />
+  <Project Path="../Ejercicio17/Ejercicio17.csproj" Id="93501852-df76-4316-86c1-4a2210154582" />
+  <Project Path="../Ejercicio18/Ejercicio18.csproj" Id="483e6f37-649f-41c4-b552-eeba6713f5a0" />
+  <Project Path="../Ejercicio19/Ejercicio19.csproj" Id="4de130f5-ea49-4737-93fd-838e96604bc1" />
   <Project Path="../Ejercicio2/Ejercicio2.csproj" Id="8d27b41a-7b23-4e1d-8bc9-57f42f159363" />
-  <Project Path="GRUP._LOBO2_OFICIAL (Ejerccio1).csproj" />
+  <Project Path="../Ejercicio20/Ejercicio20.csproj" Id="53f9b9d4-697a-447b-b21b-507f670c2fb2" />
+  <Project Path="../Ejercicio3/Ejercicio3.csproj" Id="2f33fdb1-eeab-40f2-a849-fe72c7b66a2b" />
+  <Project Path="../Ejercicio4/Ejercicio4.csproj" Id="6ae0cbfa-b841-4776-bca6-0005bcd4d8b7" />
+  <Project Path="../Ejercicio5/Ejercicio5.csproj" Id="a95f77dc-6674-4c89-b82f-cb974b572a88" />
+  <Project Path="../Ejercicio6/Ejercicio6.csproj" Id="e2b714e8-3240-4801-9971-666ecc784119" />
+  <Project Path="../Ejercicio7/Ejercicio7.csproj" Id="6a668738-9855-4e6b-b6d9-2364654128d7" />
+  <Project Path="../Ejercicio8/Ejercicio8.csproj" Id="bbeb5d25-cd7a-4540-9fc0-a7cd4649bfcf" />
+  <Project Path="../Ejercicio9/Ejercicio9.csproj" Id="ca4a3a2e-5b03-4a5d-8083-7b0d20f32c67" />
+  <Project Path="EST. 15 (Ejerccio1).csproj" />
 </Solution>
